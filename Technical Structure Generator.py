@@ -1,7 +1,6 @@
 # This filter generates a bounding box of an abstract structure according to the selection box.
 
-# This filter was written by Wout12345 (youtube.com/12345Wout12345).
-# This filter was suggested by Noerdy (youtube.com/TheNoerdy1221) and MicroMacComp (youtube.com/MicroMacComp).
+# This filter was written by Elviond
 
 # Feel free to modify this filter as long as you give credit to everyone involved.
 
