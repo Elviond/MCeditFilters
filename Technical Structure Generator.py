@@ -29,7 +29,7 @@ from pymclevel import load
 from numpy import array
 import os
 
-displayName = "Technical structure generator 1.0"
+displayName = "Technical Structure Generator 1.0"
 
 inputs = (
 	("Structure", ("Temple (witch hut)", "Nether fortress", "Ocean monument")),
