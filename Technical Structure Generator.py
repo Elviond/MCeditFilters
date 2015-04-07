@@ -32,7 +32,7 @@ import os
 displayName = "Technical Structure Generator 1.0"
 
 inputs = (
-	("Structure", ("Temple (witch hut)", "Nether fortress", "Ocean monument")),
+	("Structure", ("Temple (Witch Hut)", "Nether fortress", "Ocean monument")),
 	("Filter by Elviond", "label"),
 )
 
